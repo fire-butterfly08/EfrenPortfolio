@@ -100,12 +100,6 @@ const ProjectOverview = ({ params }: { params: { projectName: string } }) => {
                       View Demo
                     </Link>
                   </ShinyButton>
-
-                  <ShinyButton icon={<Code />} iconPosition="left">
-                    <Link href={sourceCodeUrl} target="_blank">
-                      Source Code
-                    </Link>
-                  </ShinyButton>
                 </div>
               </div>
 

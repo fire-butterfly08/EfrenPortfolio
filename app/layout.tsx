@@ -8,11 +8,11 @@ const raleway = Raleway({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    template: "Hassan - %s",
-    default: "Hassan - Full Stack Developer",
+    template: "Efren - %s",
+    default: "Efren - Full Stack Developer",
   },
   description:
-    "Hi, I am Hassan — a full stack developer crafting intuitive, visually stunning, and highly functional software and web applications.",
+    "Hi, I am Efren — a full stack developer crafting intuitive, visually stunning, and highly functional software and pixel-perfect web applications.",
 };
 
 export default function RootLayout({

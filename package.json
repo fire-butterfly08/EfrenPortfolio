@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "HassanXTech",
-    "github": "https://github.com/HassanXTech"  },
+    "name": "fire-butterfly08",
+    "github": "https://github.com/fire-butterfly08"  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

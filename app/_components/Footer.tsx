@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { BackgroundBeams } from "./ui/BackgroundBeams";
 import ShinyButton from "./ui/ShinyButton";
 
@@ -13,27 +14,25 @@ const Footer = () => {
           <h1 className="text-5xl font-bold max-w-2xl leading-[110%] relative z-10">
             Like what you see? Reach out{" "}
             <Link
-              href="mailto:hsnshafique090@gmail.com"
+              href="mailto:goto.enchanter@gmail.com"
               className="text-primary hover:text-primary/80 border-b-2 border-primary hover:border-primary/80 transition-colors duration-200"
             >
               via email
             </Link>{" "}
             to collaborate!
           </h1>
-
-          <ShinyButton>
-            <Link href="mailto:hsnshafique090@gmail.com">Schedule call</Link>
-          </ShinyButton>
         </div>
 
         <div className="mt-16 p-10 border-t border-dark-200 dark:border-white/10 flex flex-col md:flex-row justify-between gap-10 md:gap-0">
           <div className="space-y-2.5">
-            <h3 className="text-xl font-bold relative z-10">
-              Hassan
-            </h3>
-            <p className="text-dark-200/70 dark:text-stone-200/70 relative z-10">
-              &copy; 2025 | All rights reserved.
-            </p>
+            <div>
+              <h3 className="text-xl font-bold relative z-10">
+                Efren
+              </h3>
+              <p className="text-dark-200/70 dark:text-stone-200/70 relative z-10">
+                &copy; 2025 | All rights reserved.
+              </p>
+            </div>
           </div>
 
           <div className="flex justify-between gap-0 sm:gap-16">
@@ -56,7 +55,7 @@ const Footer = () => {
             <ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
               <li className="text-lg font-semibold">Projects</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://github.com/HassanXTech/Discord-Bot-Website-Template" target="_blank">Discord Bot Website</Link>
+                <Link href="#work" target="_blank">Discord Bot Website</Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link href="#work">E-Commerce Platform</Link>
@@ -77,13 +76,8 @@ const Footer = () => {
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://github.com/HassanXTech" target="_blank">
+                <Link href="https://github.com/fire-butterfly08" target="_blank">
                   Github
-                </Link>
-              </li>
-              <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://discord.com/users/1136625769628581928" target="_blank">
-                  Discord
                 </Link>
               </li>
             </ul>

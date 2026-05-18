@@ -19,7 +19,7 @@ const HeroSection = () => {
       >
         <div className="flex flex-col justify-center items-center relative z-10 text-center">
           <p className="uppercase font-bold text-sm tracking-widest">
-            Based In Pakistan
+            Based In Philippines
           </p>
           {/* <h1 className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-tight tracking-wide">
             Full Stack Development &{" "}
@@ -30,14 +30,16 @@ const HeroSection = () => {
             className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-snug tracking-wide"
           />
           <p className="pt-5 pb-8 text-sm sm:text-base md:text-lg text-dark-200 dark:text-stone-200/70">
-            Hi, I am Hassan — a full stack developer crafting intuitive, visually stunning, and highly functional software and web applications.
+            Hi, I am Efren — a full stack developer and highly accessible, functional software and pixcel-perfect web applications.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
-            <ShinyButton icon={<ChevronRight />}>
-              <Link href="#work">See My Work</Link>
-            </ShinyButton>
+            <Link href="#work">
+              <ShinyButton icon={<ChevronRight />}>
+                See My Resume
+              </ShinyButton>
+            </Link>
             <a
-              href="mailto:hsnshafique090@gmail.com"
+              href="mailto:goto.enchanter@gmail.com"
               className="flex items-center gap-2.5 group"
             >
               <Mail className="text-primary" />

@@ -1,6 +1,6 @@
 <img width="1903" height="1078" alt="image" src="https://github.com/user-attachments/assets/9310a65d-fcaf-4828-b8cb-c680e6c29d07" />
 
-# Hassan's Portfolio Website
+# Efren's Portfolio Website
 
 A modern, responsive portfolio website showcasing full-stack development skills and projects. Built with Next.js, TypeScript, and Tailwind CSS, featuring smooth animations and a clean, professional design.
 
@@ -25,7 +25,6 @@ A modern, responsive portfolio website showcasing full-stack development skills 
 - **Smooth Animations**: Powered by Framer Motion for engaging user experience
 - **Modern UI Components**: Custom-built components with Tailwind CSS
 - **Interactive Elements**: Animated tooltips, buttons, and text effects
-- **Project Showcase**: Detailed project cards with live demos and source code links
 - **Skills Section**: Visual representation of technical skills and tools
 - **Testimonials**: Client feedback and reviews section
 - **Contact Integration**: Direct email contact functionality
@@ -63,7 +62,7 @@ A modern, responsive portfolio website showcasing full-stack development skills 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HassanXTech/V1-Portfolio.git
+   git clone https://github.com/fire-butterfly08/EfrenPortfolio.git
    cd portfolio-website
    ```
 
@@ -162,7 +161,7 @@ Add new projects to the `portfolioProjects` array in `app/_lib/constants.ts`:
   imageUrl: "/imgs/projects/project-image.png",
   techStack: ["React", "Node.js", "MongoDB"],
   liveDemoUrl: "http://anomusly.vercel.app/",
-  sourceCodeUrl: "https://github.com/HassanXTech/V1-Portfolio"
+  sourceCodeUrl: "https://github.com/fire-butterfly08/efrenfernandez.github.io"
 }
 ```
 
@@ -184,10 +183,10 @@ The project can be deployed to any platform that supports Next.js:
 
 ## 📧 Contact
 
-**Hassan** - Full Stack Developer
+**Efren** - Full Stack Developer
 
-- Email: hsnshafique090@gmail.com
-- GitHub: [@HassanXTech](https://github.com/HassanXTech)
+- Email: goto.enchanter@gmail.com
+- GitHub: [@fire-butterfly08](https://github.com/fire-butterfly08)
 - Portfolio: [Live Demo](http://anomusly.vercel.app)
 
 ## 📄 License

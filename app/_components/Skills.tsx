@@ -1,4 +1,4 @@
-"use client";
+  "use client";
 
 import { techCardsItems } from "../_lib/constants";
 import TechCard from "./TechCard";
