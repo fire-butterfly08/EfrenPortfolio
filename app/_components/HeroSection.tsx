@@ -33,7 +33,7 @@ const HeroSection = () => {
             Hi, I am Efren — a full stack developer and highly accessible, functional software and pixcel-perfect web applications.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
-            <Link href="#work">
+            <Link href="https://drive.google.com/file/d/1_Ehcj5E2HUctPv4nqaRFoY-2vhl-RwoF/view?usp=drive_link">
               <ShinyButton icon={<ChevronRight />}>
                 See My Resume
               </ShinyButton>

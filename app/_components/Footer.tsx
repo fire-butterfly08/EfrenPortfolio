@@ -55,7 +55,7 @@ const Footer = () => {
             <ul className="space-y-2.5 relative z-10 text-sm sm:text-base">
               <li className="text-lg font-semibold">Projects</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="#work" target="_blank">Discord Bot Website</Link>
+                <Link href="#work" target="_blank">Selten One</Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link href="#work">E-Commerce Platform</Link>

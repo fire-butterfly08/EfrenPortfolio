@@ -111,7 +111,7 @@ export const techCardsItems = [
 
 export const portfolioProjects = [
     {
-    id: "gitspicefy",
+    id: "project1",
     heading: "Selten One",
     subheading: "Healthcare and medical services platform",
     description:
@@ -129,7 +129,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/fire-butterfly08/gitspicefy",
   },
   {
-    id: "discord-bot-website",
+    id: "project2",
     heading: "Medireon Health",
     subheading: "Healthcare management and medical services platform",
     description:
@@ -146,7 +146,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/fire-butterfly08/Discord-Bot-Website-Template",
   },
   {
-    id: "project1",
+    id: "project3",
     heading: "SpurtCommerce",
     subheading: "Open-source e-commerce marketplace platform",
     description:
@@ -169,7 +169,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "#",
   },
   {
-    id: "project2",
+    id: "project4",
     heading: "Task Management App",
     subheading: "Productivity and Task Organization Platform",
     description:
@@ -186,7 +186,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "#",
   },
   {
-    id: "project3",
+    id: "project5",
     heading: "Weather Dashboard",
     subheading: "real-time weather application",
     description:
@@ -203,7 +203,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "#",
   },
   {
-    id: "project4",
+    id: "project6",
     heading: "NexelioHealth",
     subheading: "Healthcare technology and patient care platform",
     description:
