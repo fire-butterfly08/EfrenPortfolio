@@ -6,17 +6,7 @@ A modern, responsive portfolio website showcasing full-stack development skills 
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](http://anomusly.vercel.app/)
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Deployment](#deployment)
-- [Contact](#contact)
+[View Live Portfolio](https://efrenportfolio.netlify.app/)
 
 ## ✨ Features
 
