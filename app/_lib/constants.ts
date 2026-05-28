@@ -199,7 +199,7 @@ export const portfolioProjects = [
       "API Integration",
       "Node.js + Express.js",
     ],
-    liveDemoUrl: "https://www.meteoblue.com/",
+    liveDemoUrl: "https://www.weather-manila.com/",
     sourceCodeUrl: "#",
   },
   {
