@@ -148,17 +148,17 @@ Add new projects to the `portfolioProjects` array in `app/_lib/constants.ts`:
   description: "Detailed project description",
   imageUrl: "/imgs/projects/project-image.png",
   techStack: ["React", "Node.js", "MongoDB"],
-  liveDemoUrl: "http://anomusly.vercel.app/",
+  liveDemoUrl: "https://efrenportfolio.netlify.app/",
   sourceCodeUrl: "https://github.com/fire-butterfly08/efrenfernandez.github.io"
 }
 ```
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Netlify (Recommended)
 
 1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
+2. Connect your repository to [Netlify](https://www.netlify.com/)
 3. Deploy with zero configuration
 
 ### Other Platforms
@@ -175,7 +175,7 @@ The project can be deployed to any platform that supports Next.js:
 
 - Email: goto.enchanter@gmail.com
 - GitHub: [@fire-butterfly08](https://github.com/fire-butterfly08)
-- Portfolio: [Live Demo](http://anomusly.vercel.app)
+- Portfolio: [Live Demo](https://efrenportfolio.netlify.app/)
 
 ## 📄 License
 
