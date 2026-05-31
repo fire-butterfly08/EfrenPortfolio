@@ -140,7 +140,7 @@ export const portfolioProjects = [
       "Ollama",
       "Gradio",
     ],
-    liveDemoUrl: "Local_chatGPT",
+    liveDemoUrl: "https://github.com/fire-butterfly08/Local_ChatGPT",
     sourceCodeUrl: "https://github.com/fire-butterfly08/Local_ChatGPT",
   },
   {
