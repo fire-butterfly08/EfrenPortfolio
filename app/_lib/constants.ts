@@ -130,7 +130,7 @@ export const portfolioProjects = [
   },
   {
     id: "project2",
-    heading: "Medireon Health",
+    heading: "Local chatGPT",
     subheading: "Local AI chatbot powered by Ollama and Gradio",
     description:
       "This is a self-hosted conversational AI application designed for local LLM deployment, prompt engineering, and model experimentation. Built with Python and Gradio, it enables users to interact with multiple Ollama-powered language models through an intuitive and responsive chat interface.",
